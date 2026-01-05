@@ -59,8 +59,7 @@ Sistema centralizado desenvolvido para análise e monitoramento de dados em temp
 ### 📚 Formação
 
 - **Técnico em Manutenção e Suporte em Informática**  
-  Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP)  
-  Julho/2024 – Completo
+  Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP)  – Completo
 
 - **Ensino Médio Completo** (3º ano)
 
@@ -72,10 +71,10 @@ Sistema centralizado desenvolvido para análise e monitoramento de dados em temp
 
 ### 📊 Estatísticas no GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinicius-S-L&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-S-L&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>
-</p>
+<div align="center">
+  <img height="180px" src="https://vinicius-stats.vercel.app/api?username=Vinicius-S-L&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180px" src="https://vinicius-stats.vercel.app/api/top-langs/?username=Vinicius-S-L&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinicius-S-L&theme=tokyonight&hide_border=true" alt="Streak de contribuições"/>
