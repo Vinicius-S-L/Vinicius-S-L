@@ -76,9 +76,6 @@ Sistema centralizado desenvolvido para análise e monitoramento de dados em temp
   <img height="180px" src="https://github-readme-stats-ten-omega-89.vercel.app/api/top-langs/?username=Vinicius-S-L&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas"/>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinicius-S-L&theme=tokyonight&hide_border=true" alt="Streak de contribuições"/>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vinicius-S-L&color=brightgreen&style=flat-square&label=Visitas+no+perfil" alt="Contador de visitas"/>
