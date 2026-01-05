@@ -72,8 +72,8 @@ Sistema centralizado desenvolvido para análise e monitoramento de dados em temp
 ### 📊 Estatísticas no GitHub
 
 <div align="center">
-  <img height="180px" src="https://vinicius-stats.vercel.app/api?username=Vinicius-S-L&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180px" src="https://vinicius-stats.vercel.app/api/top-langs/?username=Vinicius-S-L&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180px" src="https://github-readme-stats-ten-omega-89.vercel.app/api?username=Vinicius-S-L&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub"/>
+  <img height="180px" src="https://github-readme-stats-ten-omega-89.vercel.app/api/top-langs/?username=Vinicius-S-L&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas"/>
 </div>
 
 <p align="center">
