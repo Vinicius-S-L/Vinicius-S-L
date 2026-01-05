@@ -1,16 +1,92 @@
-## Hi there 👋
 
-<!--
-**Vinicius-S-L/Vinicius-S-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Substitua o link acima por um banner de sua preferência, ou remova se não quiser -->
 
-Here are some ideas to get you started:
+<h1 align="center">Olá, eu sou Vinícius Silva de Lima 👋</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <em>Estudante de Técnico em Manutenção e Suporte em Informática no IFSP</em><br>
+  <em>Apaixonado por Infraestrutura de TI, Monitoramento de Sistemas e Desenvolvimento Backend</em>
+</p>
+
+<p align="center">
+  <a href="mailto:vinicius6060silva@gmail.com" alt='vinicius6060silva@gmail.com'>
+    <img src="https://img.shields.io/badge/Gmail-vinicius6060silva@gmail.com-red?logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/vinicius-silva-13612b305/" target="_blank"> <!-- Adicione seu LinkedIn se tiver -->
+    <img src="https://img.shields.io/badge/LinkedIn-Vinícius%20Silva%20de%20Lima-blue?logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
+
+### 🚀 Sobre mim
+
+Cursei **Técnico em Manutenção e Suporte em Informática** no Instituto Federal de São Paulo (IFSP - Hortolândia), com conclusão prevista para dezembro de 2025.
+
+Meu foco é atuar como **Estagiário em Infraestrutura de TI** ou **Desenvolvedor Backend**, utilizando tecnologias como **Python**, **SQL** e **Linux** para otimizar sistemas, garantir estabilidade e reduzir tempo de inatividade.
+
+- 📍 Hortolândia, SP
+- 📞 (19) 98101-8090
+- 🌱 Buscando estágio em Infra de TI ou Backend
+
+### 🛠️ Habilidades e Tecnologias
+
+
+<!-- Exemplo de badges manuais (você pode substituir pelos skill-icons reais em https://github.com/tandpfun/skill-icons) -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Linux-Intermediate-FCC624?logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/PHP-Basic-777BB4?logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Web-Intermediate-239120?logo=html5&logoColor=white" alt="Web">
+</p>
+
+Outras habilidades:
+- Manutenção Técnica de Hardware/Software
+- Inglês (básico/intermediário em leitura)
+- Libras (básico)
+
+### 🌟 Projeto em Destaque
+
+#### TCC - Monitoramento de Infraestrutura de TI em Tempo Real
+Sistema centralizado desenvolvido para análise e monitoramento de dados em tempo real. O objetivo foi minimizar o tempo de inatividade de servidores e fortalecer a segurança da infraestrutura.
+
+- Tecnologias utilizadas: Python, SQL, Linux
+- Benefícios: Detecção rápida de falhas e alertas proativos
+
+> Repositório em breve! (Adicione o link quando publicar o código no GitHub)
+
+### 📚 Formação
+
+- **Técnico em Manutenção e Suporte em Informática**  
+  Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP)  
+  Julho/2024 – Completo
+
+- **Ensino Médio Completo** (3º ano)
+
+### 💼 Experiência
+
+- **Aluno Tutor** – Escola Estadual Jonatas Davi Visel dos Santos  
+  Agosto/2023 – Dezembro/2023  
+  Apoio educacional, acompanhamento de desempenho acadêmico e auxílio em atividades.
+
+### 📊 Estatísticas no GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinicius-S-L&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-S-L&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinicius-S-L&theme=tokyonight&hide_border=true" alt="Streak de contribuições"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vinicius-S-L&color=brightgreen&style=flat-square&label=Visitas+no+perfil" alt="Contador de visitas"/>
+</p>
+</p>
+
+---
+
+<p align="center">Estou aberto a oportunidades de estágio e colaborações! 🚀</p>
+<p align="center">Vamos conectar? Mande um e-mail ou abra uma issue!</p>
