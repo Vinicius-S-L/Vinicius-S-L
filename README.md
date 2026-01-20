@@ -1,7 +1,7 @@
 
 <!-- Substitua o link acima por um banner de sua preferência, ou remova se não quiser -->
 
-<h1 align="center">Olá, eu sou Vinícius Silva de Lima 👋</h1>
+<h1 align="center">Olá, eu sou Vinícius Silva de Lima </h1>
 
 <p align="center">
   <em>Estudante de Técnico em Manutenção e Suporte em Informática no IFSP</em><br>
@@ -17,15 +17,13 @@
   </a>
 </p>
 
-### 🚀 Sobre mim
+###  Sobre mim
 
-Cursei **Técnico em Manutenção e Suporte em Informática** no Instituto Federal de São Paulo (IFSP - Hortolândia), com conclusão prevista para dezembro de 2025.
+Concluí o curso **Técnico em Manutenção e Suporte em Informática** pelo **Instituto Federal de São Paulo** (IFSP - Hortolândia) e estou em busca ativa de oportunidades como **Estagiário em Desenvolvimento Web** (Full Stack ou Frontend/Backend). Tenho paixão por criar **interfaces responsivas e aplicações funcionais**, com foco em HTML, CSS, JavaScript e tecnologias modernas. Também domino **Python, SQL e Linux para suporte backend e automação**. Busco aplicar esses conhecimentos em projetos reais para crescer na área de desenvolvimento web e contribuir com soluções inovadoras..
 
-Meu foco é atuar como **Estagiário em Infraestrutura de TI** ou **Desenvolvedor Backend**, utilizando tecnologias como **Python**, **SQL** e **Linux** para otimizar sistemas, garantir estabilidade e reduzir tempo de inatividade.
-
-- 📍 Hortolândia, SP
+- 🏠 Hortolândia, SP
 - 📞 (19) 98101-8090
-- 🌱 Buscando estágio em Infra de TI ou Backend
+- 🌱 Buscando estágio em Infra de TI ou Dev Backend
 
 ### 🛠️ Habilidades e Tecnologias
 
@@ -46,7 +44,7 @@ Outras habilidades:
 - Inglês (básico/intermediário em leitura)
 - Libras (básico)
 
-### 🌟 Projeto em Destaque
+###  Projeto em Destaque
 
 #### TCC - Monitoramento de Infraestrutura de TI em Tempo Real
 Sistema centralizado desenvolvido para análise e monitoramento de dados em tempo real. O objetivo foi minimizar o tempo de inatividade de servidores e fortalecer a segurança da infraestrutura.
