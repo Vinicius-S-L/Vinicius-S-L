@@ -31,18 +31,20 @@ Concluí o curso **Técnico em Manutenção e Suporte em Informática** pelo **I
 <!-- Exemplo de badges manuais (você pode substituir pelos skill-icons reais em https://github.com/tandpfun/skill-icons) -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Linux-Intermediate-FCC624?logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/PHP-Basic-777BB4?logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Web-Intermediate-239120?logo=html5&logoColor=white" alt="Web">
+  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/PHP-Basic-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 </p>
 
-Outras habilidades:
-- Manutenção Técnica de Hardware/Software
-- Inglês (básico/intermediário em leitura)
-- Libras (básico)
+#### 🌟 Outras Habilidades
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-Intermediate-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/%F0%9F%AA%9B%20Manuten%C3%A7%C3%A3o%20T%C3%A9cnica%20de%20Hardware%2FSoftware-4B5563?style=for-the-badge" alt="Manutenção Técnica de Hardware/Software">
+  <img src="https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7%20Ingl%C3%AAs-B%C3%A1sico%2FIntermedi%C3%A1rio%20em%20leitura-0EA5E9?style=for-the-badge" alt="Inglês">
+  <img src="https://img.shields.io/badge/%F0%9F%A4%9F%20Libras-B%C3%A1sico-8B5CF6?style=for-the-badge" alt="Libras">
+</p>
 
 ###  Projeto em Destaque
 
