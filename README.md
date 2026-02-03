@@ -4,7 +4,7 @@
 <h1 align="center">Olá, eu sou Vinícius Silva de Lima </h1>
 
 <p align="center">
-  <em>Estudante de Técnico em Manutenção e Suporte em Informática no IFSP</em><br>
+  <em>Formato em Técnico em Manutenção e Suporte em Informática no IFSP</em><br>
   <em>Apaixonado por Infraestrutura de TI, Monitoramento de Sistemas e Desenvolvimento Backend</em>
 </p>
 
