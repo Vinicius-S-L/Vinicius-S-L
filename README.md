@@ -19,7 +19,7 @@
 
 ###  Sobre mim
 
-Concluí o curso **Técnico em Manutenção e Suporte em Informática** pelo **Instituto Federal de São Paulo** (IFSP - Hortolândia) e estou em busca ativa de oportunidades como **Estagiário em Desenvolvimento Web ou Júnior** Frontend. Tenho paixão por criar **interfaces responsivas e aplicações funcionais**, com foco em HTML, CSS, JavaScript e tecnologias modernas. Também domino **Python, SQL e Linux para suporte backend e automação**. Busco aplicar esses conhecimentos em projetos reais para crescer na área de desenvolvimento web e contribuir com soluções inovadoras..
+Concluí o curso **Técnico em Manutenção e Suporte em Informática** pelo **Instituto Federal de São Paulo** (IFSP - Hortolândia) e estou em busca ativa de oportunidades como **Estagiário em Desenvolvimento Web ou Júnior Frontend.** Tenho paixão por criar **interfaces responsivas e aplicações funcionais**, com foco em HTML, CSS, JavaScript e tecnologias modernas. Também domino **Python, SQL e Linux para suporte backend e automação**. Busco aplicar esses conhecimentos em projetos reais para crescer na área de desenvolvimento web e contribuir com soluções inovadoras..
 
 - 🏠 Hortolândia, SP
 - 📞 (19) 98101-8090
