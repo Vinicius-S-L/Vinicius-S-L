@@ -19,11 +19,11 @@
 
 ###  Sobre mim
 
-Concluí o curso **Técnico em Manutenção e Suporte em Informática** pelo **Instituto Federal de São Paulo** (IFSP - Hortolândia) e estou em busca ativa de oportunidades como **Estagiário em Desenvolvimento Web ou Júnior Frontend.** Tenho paixão por criar **interfaces responsivas e aplicações funcionais**, com foco em HTML, CSS, JavaScript e tecnologias modernas. Também domino **Python, SQL e Linux para suporte backend e automação**. Busco aplicar esses conhecimentos em projetos reais para crescer na área de desenvolvimento web e contribuir com soluções inovadoras..
+Concluí o curso **Técnico em Manutenção e Suporte em Informática** pelo **Instituto Federal de São Paulo** (IFSP - Hortolândia) e estou em busca ativa de oportunidades como **Estagiário em Desenvolvimento Back-end.** Tenho paixão por criar **interfaces responsivas e aplicações funcionais**, com foco em HTML, CSS, JavaScript e tecnologias modernas. Também domino **Python, SQL e Linux para suporte backend e automação**. Busco aplicar esses conhecimentos em projetos reais para crescer na área de desenvolvimento web e contribuir com soluções inovadoras..
 
 - 🏠 Hortolândia, SP
 - 📞 (19) 98101-8090
-- 🌱 Buscando estágio em Infra de TI ou Dev Backend
+- 🌱 Buscando estágio em Dev Backend
 
 ### 🛠️ Habilidades e Tecnologias
 
@@ -63,11 +63,6 @@ Sistema centralizado desenvolvido para análise e monitoramento de dados em temp
 
 - **Ensino Médio Completo** (3º ano)
 
-### 💼 Experiência
-
-- **Aluno Tutor** – Escola Estadual Jonatas Davi Visel dos Santos  
-  Agosto/2023 – Dezembro/2023  
-  Apoio educacional, acompanhamento de desempenho acadêmico e auxílio em atividades.
 
 ### 📊 Estatísticas no GitHub
 
